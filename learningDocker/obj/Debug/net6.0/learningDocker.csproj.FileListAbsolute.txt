@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\bin\Debug\net6.0\learningDocker.exe
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\bin\Debug\net6.0\learningDocker.deps.json
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\bin\Debug\net6.0\learningDocker.runtimeconfig.json
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\bin\Debug\net6.0\learningDocker.dll
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\bin\Debug\net6.0\learningDocker.pdb
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.dll
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\refint\learningDocker.dll
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.pdb
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\learningDocker.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\MVC\learningDocker\learningDocker\obj\Debug\net6.0\ref\learningDocker.dll
