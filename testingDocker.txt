@@ -1,8 +1,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 
-WORKDIR /learningdocker
+WORKDIR /learningDocker
 
-COPY ./learningDocker/*.csproj ./
+COPY /learningDocker/learningDocker.csproj ./
 RUN dotnet restore
 
 COPY . .
@@ -11,7 +11,7 @@ RUN dotnet publish -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
-COPY --from=build /app/out .
+COPY --from=build /learningDocker/out ./
 
 # Expose the port that the application will listen on
 EXPOSE 80
