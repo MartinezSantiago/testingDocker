@@ -17,4 +17,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Define the entry point for the application
-CMD ["dotnet", "learningdocker.dll"]
+CMD ["dotnet", "learningDocker.dll"]
